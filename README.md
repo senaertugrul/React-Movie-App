@@ -1,2 +1,2 @@
 Movie App
-https://react-movie-bwgfpge35-senaertugruls-projects.vercel.app
+https://react-movie-app-sena.vercel.app/
