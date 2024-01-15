@@ -9,8 +9,7 @@ import PrivateRouter from "./PrivateRouter";
 
 const AppRouter = () => {
   return (
-    // useNavigate hookunu kullanabilmek için index.js'e taşıdık
-    // <BrowserRouter>
+    
     <>
       <Navbar />
       <Routes>
@@ -22,7 +21,7 @@ const AppRouter = () => {
         </Route>
       </Routes>
     </>
-    // </BrowserRouter>
+    
   );
 };
 
